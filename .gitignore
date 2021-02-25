@@ -1,0 +1,6 @@
+.DS_Store.
+.devtools
+.vscode/
+/.idea/
+/.idea/*
+/node_modules
